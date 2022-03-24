@@ -16,9 +16,9 @@ You will also need to set up RPC endpoint API key and Blockexplorer Key as the d
 
 add the following values to ~/.bashrc
 
-export ETHERSCAN_TOKEN= (optional)
-export WEB3_INFURA_PROJECT_ID= (infura endpoint id)
-export POLYGONSCAN_TOKEN= (requires polygonscan account)
+export ETHERSCAN_TOKEN= (optional) <br>
+export WEB3_INFURA_PROJECT_ID= (infura endpoint id) <br>
+export POLYGONSCAN_TOKEN= (requires polygonscan account) <br>
 
 ##### run tests
 
